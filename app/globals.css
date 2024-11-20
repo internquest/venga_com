@@ -7,6 +7,12 @@
   --foreground: #171717;
 }
 
+@layer components{
+  .linejoin{
+    @apply after:content-[''] after:h-[1px] after:border-t-[1px] after:border-[#111a29] after:w-full after:flex-grow-0 after:flex-shrink after:basis-auto
+  }
+}
+
 @media (prefers-color-scheme: dark) {
   :root {
     --background: #0a0a0a;
@@ -21,6 +27,10 @@
 .swiper-slide {
   background-position: center;
   background-size: cover;
+}
+
+.swiper-horizontal > .swiper-pagination-bullets, .swiper-pagination-bullets.swiper-pagination-horizontal {
+  bottom: 33px !important;
 }
 
 .swiper-slide img {

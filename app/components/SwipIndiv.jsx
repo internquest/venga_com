@@ -11,10 +11,12 @@ const SwipIndiv = () => {
                 <span class="m-0 p-0 box-border opacity-100 transform-none">’</span>
                 <span class="m-0 p-0 box-border opacity-100 transform-none">r</span>
                 <span class="m-0 p-0 box-border opacity-100 transform-none">e</span>
+                
             </div>
+            {' '}
             <div class="m-0 p-0 box-border inline-flex">
                 <span class="m-0 p-0 box-border opacity-100 transform-none">a</span>
-            </div>
+            </div> {' '}
             <div class="m-0 p-0 box-border inline-flex">
                 <span class="m-0 p-0 box-border opacity-100 transform-none">V</span>
                 <span class="m-0 p-0 box-border opacity-100 transform-none">i</span>
@@ -23,14 +25,14 @@ const SwipIndiv = () => {
                 <span class="m-0 p-0 box-border opacity-100 transform-none">u</span>
                 <span class="m-0 p-0 box-border opacity-100 transform-none">a</span>
                 <span class="m-0 p-0 box-border opacity-100 transform-none">l</span>
-            </div>
+            </div>{' '}
             <div class="m-0 p-0 box-border inline-flex">
                 <span class="m-0 p-0 box-border opacity-100 transform-none">A</span>
                 <span class="m-0 p-0 box-border opacity-100 transform-none">s</span>
                 <span class="m-0 p-0 box-border opacity-100 transform-none">s</span>
                 <span class="m-0 p-0 box-border opacity-100 transform-none">e</span>
                 <span class="m-0 p-0 box-border opacity-100 transform-none">t</span>
-            </div>
+            </div>{' '}
             <div class="m-0 p-0 box-border inline-flex">
                 <span class="m-0 p-0 box-border opacity-100 transform-none">S</span>
                 <span class="m-0 p-0 box-border opacity-100 transform-none">e</span>
@@ -39,7 +41,7 @@ const SwipIndiv = () => {
                 <span class="m-0 p-0 box-border opacity-100 transform-none">i</span>
                 <span class="m-0 p-0 box-border opacity-100 transform-none">c</span>
                 <span class="m-0 p-0 box-border opacity-100 transform-none">e</span>
-            </div>
+            </div>{' '}
             <div class="m-0 p-0 box-border inline-flex">
                 <span class="m-0 p-0 box-border opacity-100 transform-none">P</span>
                 <span class="m-0 p-0 box-border opacity-100 transform-none">r</span>
@@ -49,11 +51,11 @@ const SwipIndiv = () => {
                 <span class="m-0 p-0 box-border opacity-100 transform-none">d</span>
                 <span class="m-0 p-0 box-border opacity-100 transform-none">e</span>
                 <span class="m-0 p-0 box-border opacity-100 transform-none">r</span>
-            </div>
+            </div>{' '}
             <div class="m-0 p-0 box-border inline-flex">
                 <span class="m-0 p-0 box-border opacity-100 transform-none">i</span>
                 <span class="m-0 p-0 box-border opacity-100 transform-none">n</span>
-            </div>
+            </div>{' '}
             <div class="m-0 p-0 box-border inline-flex">
                 <span class="m-0 p-0 box-border opacity-100 transform-none">P</span>
                 <span class="m-0 p-0 box-border opacity-100 transform-none">o</span>

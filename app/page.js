@@ -4,8 +4,9 @@ import Whatisvenga from "./components/Whatisvenga";
 import Efforlessnavigate from "./components/Efforlessnavigate";
 import OurRoadmap from "./components/OurRoadmap";
 import Newwsletter from "./components/Newwsletter";
-import Footer from "./components/Footer";
+
 import WeR from "./components/WeR";
+
 
 export default function Home() {
   return (
@@ -20,7 +21,7 @@ export default function Home() {
         <Newwsletter/>
       </div>
     </main>
-    <Footer/>
+   
     </>
   );
 }
