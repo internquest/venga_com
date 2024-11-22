@@ -11,6 +11,15 @@
   .linejoin{
     @apply after:content-[''] after:h-[1px] after:border-t-[1px] after:border-[#111a29] after:w-full after:flex-grow-0 after:flex-shrink after:basis-auto
   }
+  .para{
+    @apply text-[24px] font-medium leading-[130%] tracking-[0.01em] max-w-[633px] text-[rgb(17,26,41)]
+  }
+  .firsttextofcard{
+    @apply text-[rgb(17,_26,_41)] text-[18px] leading-[21.6px] font-semibold mb-6
+  }
+  .secondtextofcard{
+    @apply text-[rgb(17,_26,_41)] text-[18px] leading-[21.6px] font-semibold
+  }
 }
 
 @media (prefers-color-scheme: dark) {

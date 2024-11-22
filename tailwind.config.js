@@ -9,6 +9,7 @@ module.exports = {
     extend: {
       screens: {
         't90': { max: '900px' },
+        't13': { max: '1320px' },
         't14': { max: '1400px' },
       }
       ,

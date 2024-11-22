@@ -2,7 +2,7 @@ import React from 'react'
 
 const Latestjobs = () => {
   return (
-    <section class="m-0 p-0 box-border relative w-full max-w-[1400px] h-[649px] bg-[url('/_next/static/media/lime2.343bd9a7.svg')] bg-no-repeat bg-[50%_center] bg-cover rounded-[16px] bg-[rgb(120,_166,_255)] overflow-hidden mb-[20px]">
+    <section class="m-0 p-0 box-border relative w-full max-w-[1400px] h-[649px] bg-[url('https://venga.com/_next/static/media/lime2.343bd9a7.svg')] bg-no-repeat bg-[50%_center] bg-cover rounded-[16px] bg-[rgb(120,_166,_255)] overflow-hidden mb-[20px]">
     <article class="m-0 p-[40px] box-border rounded-[16px] bg-[rgb(255,_254,_248)] min-h-[369px] flex flex-col justify-between gap-[100px] text-[rgb(17,_26,_41)] max-w-[880px] w-full absolute bottom-[24px] right-[24px] opacity-100 transform-none">
         <div class="m-0 p-0 box-border flex gap-[30px] flex-col">
             <h2 class="m-0 p-0 box-border font-[LabilGrotesk,_sans-serif] font-extrabold text-[90px] leading-[85%] tracking-[-0.02em] uppercase">Latest Jobs</h2>
